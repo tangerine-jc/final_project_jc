@@ -2,8 +2,8 @@ Are Morning Flights Really More Punctual?
 ================
 November 11, 2026
 
-**Team:** 曹俊泽 (jc6961), 赵承舜 (cz3006), Cecilia Zhao (yz5434), Cindy
-Wang (yw4817), and 刘峙岳 (zl3802).
+**Team:** Junze Cao (jc6961), Chengshun Zhao (cz3006), Cecilia Zhao
+(yz5434), Cindy Wang (yw4817), and Zhiyue Liu (zl3802).
 
 ## Motivation
 
@@ -51,13 +51,13 @@ change.
 
 ## Team and timeline
 
-曹俊泽 will lead data preparation; 赵承舜, overall comparisons; 刘峙岳,
-within-route analysis and report integration; Cecilia Zhao,
-airport–season analysis and video editing; and Cindy Wang, disruption
-measures and website integration. Everyone will contribute code,
-writing, and review in the dedicated repository. We will finalize the
-proposal November 12 and submit by November 13 at 1 pm; all five will
-attend the November 16–20 review. Data checks finish November 22,
+Junze Cao will lead data preparation; Chengshun Zhao, overall
+comparisons; Zhiyue Liu, within-route analysis and report integration;
+Cecilia Zhao, airport–season analysis and video editing; and Cindy Wang,
+disruption measures and website integration. Everyone will contribute
+code, writing, and review in the dedicated repository. We will finalize
+the proposal November 12 and submit by November 13 at 1 pm; all five
+will attend the November 16–20 review. Data checks finish November 22,
 analysis drafts November 27, and a complete report and website December
 4. We will freeze outputs December 11, submit shared deliverables and
 individual peer assessments by December 12 at 11:59 pm, and join the
