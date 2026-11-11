@@ -12,3 +12,11 @@ morning flights arrive late less often, how much of any advantage
 remains within comparable routes, and whether it varies across airports
 and seasons. Cancellations and diversions will help assess whether the
 answer changes when unsuccessful trips are included.
+
+## Data and analysis
+
+We plan to download 44 monthly files from [BTS Reporting Carrier On-Time
+Performance](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ),
+covering reported US domestic flights from January 2023 through August
+2026. An August 2026 pilot contains 608,389 records; the full count
+remains to be established.
