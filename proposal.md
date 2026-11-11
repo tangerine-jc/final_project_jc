@@ -48,3 +48,17 @@ retain download and cleaning logs and keep raw files out of Git.
 Regression is optional. If processing is not feasible by November 20, we
 will reduce coverage to January 2025–August 2026 and document the
 change.
+
+## Team and timeline
+
+曹俊泽 will lead data preparation; 赵承舜, overall comparisons; 刘峙岳,
+within-route analysis and report integration; Cecilia Zhao,
+airport–season analysis and video editing; and Cindy Wang, disruption
+measures and website integration. Everyone will contribute code,
+writing, and review in the dedicated repository. We will finalize the
+proposal November 12 and submit by November 13 at 1 pm; all five will
+attend the November 16–20 review. Data checks finish November 22,
+analysis drafts November 27, and a complete report and website December
+4. We will freeze outputs December 11, submit shared deliverables and
+individual peer assessments by December 12 at 11:59 pm, and join the
+December 17 discussion. All times are Eastern.
