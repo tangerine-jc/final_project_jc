@@ -34,3 +34,17 @@ coverage. Airport–season comparisons will use the 20 busiest origin
 airports in 2023 plus JFK, LGA, and EWR. We will vary the morning cutoff
 and restrict direct comparisons across years to January–August. Results
 will describe associations, including absent or reversed advantages.
+
+## Products and workflow
+
+We will produce four to five core figures, a standalone report, an R
+Markdown website containing that report, and a narrated screencast of at
+most two minutes. The homepage will link to our shared GitHub repository
+and embed the published video. Using classroom readr, dplyr, purrr,
+ggplot2, and Plotly methods, we will process selected columns one month
+at a time and combine summary tables. Challenges include memory use,
+inconsistent fields, missing outcomes, and correct denominators. We will
+retain download and cleaning logs and keep raw files out of Git.
+Regression is optional. If processing is not feasible by November 20, we
+will reduce coverage to January 2025–August 2026 and document the
+change.
